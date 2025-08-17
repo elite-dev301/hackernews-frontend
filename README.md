@@ -22,7 +22,7 @@ An Angular frontend application that displays the newest stories from Hacker New
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/HujiLLC/hackernews-frontend.git
+git clone https://github.com/elite-dev301/hackernews-frontend.git
 cd HackerNews-Frontend
 ```
 
